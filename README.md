@@ -131,5 +131,5 @@ python -c "from file_manager import split_and_distribute; split_and_distribute('
 
 Repositório no GitHub
 
-Acesse o código-fonte completo do projeto no repositório: 
+Acesse o código-fonte completo do projeto no repositório: https://github.com/ViniMattias/MiniBit
 
